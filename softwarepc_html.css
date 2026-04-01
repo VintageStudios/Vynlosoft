@@ -1,0 +1,46 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_6532fa0e { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:92px; height:28px; background-color:#FF0000; background: linear-gradient(to bottom,#FF0000, #720000 50%, #590000 50%, #3F0000); border: 2px solid #FF0000;  }
+#button_6532fa0e:hover { background-color:#D10000; background: linear-gradient(to bottom,#D10000, #5E0000 50%, #490000 50%, #340000); border-color:#000000;  }
+#button_6532fa0e:hover span { color:#FFFFFF; }
+#button_12d1eed0 { box-sizing: border-box; vertical-align: bottom; border-radius: 15px 0px 15px 0px; position:relative; display: inline-block; width:150px; height:40px; background-color:#0080C0; background: linear-gradient(to bottom, #0000FF, #0080C0); border: 2px solid #242424;  }
+#button_12d1eed0:hover { background-color:#A9A9BC; background: linear-gradient(to bottom, #A9A9AA, #A9A9BC); border-color:#000000;  }
+#button_12d1eed0:hover span { color:#FFFFFF; }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_6ce45538 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:237px; background-color:#FFFFFF; background-image: url(rc_images/vynlosoft_themed_wallpaper.png); background-position:top left; background-size:cover;  }
+#container_6ce45538_padding { margin: 10px; display: block;  }
+#container_36bd4fd1 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:132px; background:none;  }
+#container_36bd4fd1_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#img_3f52f5e { vertical-align: bottom; position:relative; display: inline-block; width:13%; background:none; height:auto;  }
+#heading_18f1f132 { vertical-align: bottom; position:relative; display: inline-block; background-color:#0080C0;  }
+.textstyle3 { text-align:left;display: block }
+.textstyle4 { font-size:28pt; font-family:Arial, Helvetica, sans-serif; color:#FFFF00; font-weight:bold;  }
+.textstyle5 { font-size:28pt; font-family:Arial, Helvetica, sans-serif; color:#FF0000; font-weight:bold;  }
+#container_3e575098 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FAE156; background: linear-gradient(to bottom, #F9C848, #FAE156);  }
+#container_3e575098_padding { margin: 10px; display: block;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#container_52c2f018 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#F9C949; background: linear-gradient(to bottom, #F9DD53, #F9C949);  }
+#container_52c2f018_padding { margin: 10px; display: block;  }
+#container_325f9d76 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:122px; background:none;  }
+#container_325f9d76_padding { margin: 10px; display: block;  }
+#img_1ea2dbfe { vertical-align: bottom; position:relative; display: inline-block; width:39%; background:none; height:auto;  }
+#container_7302d56d { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background-color:#FFFFFF;  }
+#container_7302d56d_padding { margin: 10px; display: block;  }
+#heading_372572cb { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+#container_6e2ba9d9 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:118px; background:none;  }
+#container_6e2ba9d9_padding { margin: 10px; display: block;  }
+#heading_74f6e22b { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+#container_1e96eab0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:41px; background:none;  }
+#container_1e96eab0_padding { margin: 10px; display: block;  }
+@media only screen and (max-width: 400px)
+{
+		#container_325f9d76 { width:100%;  }
+		#container_7302d56d { width:100%;  }
+}
